@@ -20,5 +20,5 @@
 - 🖥 &nbsp; Adobe Xd | Adobe Photoshop 
 
 <h3>
-  <a href="https://uliprantz.dev">Get in Connect with Me - via my Portfolio Page</a>
+  <a href="https://uliprantz.dev">🌍 Get in Connect with Me - via my Portfolio Page</a>
 </h3>
