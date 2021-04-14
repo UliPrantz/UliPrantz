@@ -10,12 +10,12 @@
 - 🔭 &nbsp; I’m currently completely hyped up for Flutter
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Mathematics and Computer Science - Data Science in Erlangen
-- 💼 &nbsp; Cross Platform Developer and sometime (if needed) also Full Stack Developer
+- 💼 &nbsp; Cross Platform Developer and sometimes (if needed) also Full Stack Developer
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++ | HTML | CSS | JavaScript 
+- 💻 &nbsp; Python | Dart | Java | C++ | C# | HTML | CSS | JavaScript 
 - 🔧 &nbsp; Android Studio | Visual Studio Code | Git
 - 🖥 &nbsp; Adobe Xd | Adobe Photoshop 
 
