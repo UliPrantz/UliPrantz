@@ -7,11 +7,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently completely hyped up for Flutter
+- 🔭 &nbsp; I’m currently completely hyped up for <a href="https://github.com/flutter/flutter">Flutter</a> and <a href="https://github.com/supabase/supabase">Supabase</a>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Mathematics and Computer Science - Data Science in Erlangen
 - 💼 &nbsp; Cross Platform Developer and sometimes (if needed) also Full Stack Developer
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence
+- 🌱 &nbsp; Enthusiast in Cyber-Security and Artificial Intelligence
 
 <h3>🛠 Tech Stack</h3>
 
@@ -20,5 +20,5 @@
 - 🖥 &nbsp; Adobe Xd | Adobe Photoshop 
 
 <h3>
-  <a href="https://uliprantz.dev">🌍 Get in contact with Me - via my Portfolio Page</a>
+  <a href="https://uliprantz.dev">🌍  Get in contact with Me - via my Portfolio Page</a>
 </h3>
