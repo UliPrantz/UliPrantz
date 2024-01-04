@@ -9,7 +9,7 @@
 
 - 🔭 &nbsp; I’m currently completely hyped up for <a href="https://github.com/flutter/flutter">Flutter</a> and <a href="https://github.com/supabase/supabase">Supabase</a>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Mathematics and Computer Science - Data Science in Erlangen
+- 🎓 &nbsp; Studying IT Systems Engineering at Hasso Plattner Institute (HPI)
 - 💼 &nbsp; Cross Platform Developer and sometimes (if needed) also Full Stack Developer
 - 🌱 &nbsp; Enthusiast in Cyber-Security and Artificial Intelligence
 
