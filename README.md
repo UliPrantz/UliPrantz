@@ -14,7 +14,7 @@
 
 - 💻 &nbsp; Python | Dart | Java | C++ | C# | HTML | CSS | JavaScript 
 - 🔧 &nbsp; Android Studio | Visual Studio Code | Git
-- 🖥 &nbsp; Adobe Xd | Adobe Photoshop 
+- 🖥 &nbsp; Figma | WebFlow 
 
 <h3>
   <a href="https://uliprantz.dev">🌍  Get in contact with Me - via my Portfolio Page</a>
