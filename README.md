@@ -1,9 +1,6 @@
 
         
 <h2> Hey there! I'm Uli Prantz. <img src="https://github.com/UliPrantz/UliPrantz/blob/main/Hi.gif" width="25"></h2>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img align="right" alt="GIF" src="https://github.com/UliPrantz/UliPrantz/blob/main/EyeCatcher.gif" width="500"/>
-</a>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
